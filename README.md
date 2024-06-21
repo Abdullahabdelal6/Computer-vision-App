@@ -16,12 +16,6 @@ requirements.txt: List of Python libraries required for this project.
 mp3 files: Voice of the AI trainer
 mp4 files: Demo video of exercises (push up, curl, squat, etc)
 
-Installation
-
-
-Clone this repository to your local machine.
-git clone https://github.com/RiccardoRiccio/Fitness-AI-coach.git
-
 
 How to Run
 To run the application, open your terminal and execute the following command:
